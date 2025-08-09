@@ -1663,3 +1663,8 @@ wprintf
 wscanf
 wsprintfW
 wvsprintfW
+CeImpersonateCurrentProcess
+CeRevertToSelf
+CeCreateToken
+CeDuplicateToken
+CePolicyCheckWithContext
